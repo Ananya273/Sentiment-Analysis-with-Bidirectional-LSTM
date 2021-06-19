@@ -15,3 +15,6 @@ overcome the difficulties of traditional word representation methods as they can
 - Lastly a binary `softmax classifier` extracts information from the last hidden layer to predict the sentiment orientation by using semantic features. 
 - `Cross Entropy` is used to find the difference between predicted and real values and calculate loss for each statement.
 - Based on the loss values, `adam optimiser` is used for optimising the paramters.
+
+![image](https://user-images.githubusercontent.com/7736847/122645952-9d29c200-d13a-11eb-87e3-58212f443b5a.png)
+
